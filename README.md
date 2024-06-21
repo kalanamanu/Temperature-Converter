@@ -1,4 +1,4 @@
-# Temperature Converter Pro
+# Temperature Converter
 
 Temperature Converter Pro is a simple web application that allows users to convert temperatures between Celsius and Fahrenheit. It features an intuitive interface and dynamic switching between conversion modes.
 
